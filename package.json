@@ -1,11 +1,7 @@
 {
-  "name": "dantd-cli",
+  "name": "dantd-pro",
   "version": "1.0.0",
-  "description": "demo",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "description": "Out-of-box UI solution for enterprise applications",
   "bin": {
     "dantd": "./bin/dantd.js"
   },
