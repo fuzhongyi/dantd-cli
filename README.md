@@ -5,13 +5,13 @@
 安装:
 
 ```bash
-npm install -g dantd-pro
+npm install -g @ncs/pro-cli
 # OR
-yarn global add dantd-pro
+yarn global add @ncs/pro-cli
 ```
 
 ## 创建项目
 
 ```bash
-dantd init my-project
+npro init my-project
 ```

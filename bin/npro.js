@@ -9,7 +9,7 @@ const ora = require("ora");
 const downloadGit = (projectName) => {
   const spinner = ora("正在初始化").start();
   download(
-    "gitlab:git.doctorwork.com:fuzhongyi/react-antd-template",
+    "gitlab:gitlab.kaisquare.com/ummi/platform/smartboxforedge#refactor/sf-web",
     projectName,
     function (err) {
       spinner.stop();

@@ -1,9 +1,9 @@
 {
-  "name": "dantd-pro",
-  "version": "1.0.0",
+  "name": "@ncs/pro-cli",
+  "version": "0.0.3",
   "description": "Out-of-box UI solution for enterprise applications",
   "bin": {
-    "dantd": "./bin/dantd.js"
+    "dantd": "./bin/npro.js"
   },
   "author": "xyue",
   "license": "ISC",
@@ -13,5 +13,8 @@
     "download-git-repo": "^3.0.2",
     "inquirer": "^7.1.0",
     "ora": "^4.0.3"
+  } ,
+  "publishConfig": {
+    "access": "public"
   }
 }
