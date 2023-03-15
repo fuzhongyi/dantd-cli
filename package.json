@@ -1,9 +1,9 @@
 {
   "name": "@ncs/pro-cli",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Out-of-box UI solution for enterprise applications",
   "bin": {
-    "dantd": "./bin/npro.js"
+    "npro": "./bin/index.js"
   },
   "author": "xyue",
   "license": "ISC",
